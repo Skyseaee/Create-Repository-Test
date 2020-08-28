@@ -2,3 +2,6 @@ aaaaa
 bbbbbbbb
 vccccc
 dddddd
+edition on hot_fix branch
+aaaaaa
+bbbbbb
